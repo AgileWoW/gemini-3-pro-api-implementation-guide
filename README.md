@@ -33,7 +33,7 @@ pip install -q -U google-genai
 Note: Gemini 3 features require SDK version 1.51.0 or later.
 
 **3. Basic Implementation**
-Python
+```python
 from google import genai
 from google.genai import types
 
@@ -51,6 +51,8 @@ thinking_level=types.ThinkingLevel.HIGH
 )
 
 print(response.text)
+
+```
 
 **📖 Deeper Technical Resources**
 

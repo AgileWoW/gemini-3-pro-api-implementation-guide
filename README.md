@@ -47,6 +47,7 @@ response = client.models.generate_content(
 )
 
 print(response.text)
+
 **📖 Deeper Technical Resources**
 For a complete walkthrough on scaling this into a production-grade multi-agent system, refer to the full article on our engineering blog:
 👉 Read the Full Guide: [Automating Enterprise Workflows with Gemini 3 Pro](https://aidevdayindia.org/blogs/free-google-ai-tools-for-business/google-ai-studio-vs-gemini-api-pricing.html)

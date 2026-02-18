@@ -1,3 +1,6 @@
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/5ef2ccc3-d60d-4291-bb19-5a3c89447356" />
+
+
 # gemini-3-pro-api-implementation-guide
 A technical implementation guide for Google's Gemini 3 Pro API with Python examples and agentic workflows.
 
